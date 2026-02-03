@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"SF_Actor3","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"SF_Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Survivor","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":7,"characterName":"SF_Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"SF_Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Survivor","nickname":"","note":"","profile":""}
+]
