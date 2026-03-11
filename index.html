@@ -6,43 +6,83 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Website</title>
     <style>
-        body{
-            background-color: #b41b1b;
+        body {
+            background-color: #000000;
+            text-align: center;
         }
-        nav{
+
+        nav {
+            background-color: #000000;
+        }
+
+        a {
+            color: #ffffff;
+        }
+
+        article {
+            background-color: #000000;
+        }
+
+        header {
+            background-color: #000000;
+        }
+
+        body {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: #ffffff;
+        }
+
+        h1,
+        h2 {
+            text-align: center;
+        }
+
+        Button {
             background-color: #ffffff;
-        }
-        a{
             color: #000000;
-        }
-        article{
-            background-color: #ffffff;
-        }
-        header{
-            background-color: #ffffff;
-        }
-        body{
-            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            height: 50px;
         }
     </style>
+
 </head>
 
 <body>
-    <h1>A Website</h1>
+    <h1>Main Page</h1>
+    <p>
+    <h3>Welcome to this website</h3>
+    </p>
+    <p>
+    <h3>Here's a pineapple</h3>
+    </p>
+    <p><img src="Pineapple.png" width=250px></p>
     <nav>
-        <a href="index.html">Home</a> |
-        <a href="about.html">About</a> |      
-        <a href="game/index.html">Game</a>
+        <h2>Links</h2>
+        <h2>
+            <a href="about.html">About</a> |
+            <a href="game/index.html">Game</a> |
+            <a href="confusing.html">Cookie Clicker</a>
+        </h2>
     </nav>
-
-    <article>
-        <header>
-            <h2>Weclome to my website</h2>
-            <p>I am person with human capilities</p>
-        </header>
-        <p>Extra info for you</p>
-    </article>
-    <p><a href="more.html">More Info</a></p>
 </body>
+<script>
+    var dontCare = 0
+    function feelings() {
+        if (dontCare == 0) {
+            alert("Don't care")
+            dontCare = 1}
+        else if (dontCare == 1) {
+                alert("I already said I don't care")
+                dontCare = 2
+            }
+            else if (dontCare == 2) {
+                alert("Im cutting you off from speaking to me")
+                dontCare = 3
+            }
+            else
+                if (dontCare == 3) {
+                }
+        }
+</script>
 
 </html>

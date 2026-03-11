@@ -1,5 +1,8 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"SF_Actor3","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"SF_Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Survivor","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":7,"characterName":"SF_Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"SF_Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Survivor","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Wizard","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Wizard","traits":[],"initialLevel":1,"maxLevel":99,"name":"Blue Wizard of the East","nickname":"Blue Wizard","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dog","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
